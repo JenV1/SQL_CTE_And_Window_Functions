@@ -248,9 +248,6 @@ FROM mins_and_maxs
 ORDER BY difference_between_max_salary DESC;
 ```
 
-ADD MEDIAN TO THE FOLLOWING...
-
-
 3) Order the employees by start date. Research how to calculate the **median** salary value and the **standard deviation** in salary values and show how these change as more employees join the company
 
 ```sql
